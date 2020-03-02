@@ -1,0 +1,10 @@
+Employee's No: 1
+Employee's id: 1
+Employee's name: Hassan
+Employee's marks: 45.67
+Employee's dept: CSIT
+Employee's No: 2
+Employee's id: 32
+Employee's name: Darain
+Employee's marks: 67.45
+Employee's dept: MECH
